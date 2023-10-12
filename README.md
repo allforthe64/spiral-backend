@@ -1,8 +1,6 @@
 <h1>Discover Spiral: The Backend</h1>
 <br>
-I am a huge gym rat. Something about going to the gym, racking up an absurd ammount of weight and trying to lift it speaks to me. But one thing I 
-don't enjoy, is writing complex, heavy code. So I decided to learn ReactJS :p. I knew going in that React would allow me to write lighter, easier to read code and I had a brilliant idea: why not use the power of lightweight code to build a website about jacking heavy weights? And just like that, the Mogged
-Supplement Company was born. Read on to see how I combined two of my passions into one epic project:
+If you've already looked through the readme for this project's frontend, you'll know that Discover Spiral Learning features not only a flashy forward facing design, but also a backend which we built to store all of the great learning resources available on the site. We knew we needed to be able to store simple objects made up of mostly text and images and a system to perform CRUD operations on the resources. With these parameters in mind, we decided to keep it simple and use a Express API connected to a MongoDB cluster. Read below to see how we combined these tools to build the backend for the Spiral project:
 <br>
 <br> 
 <br>
@@ -14,7 +12,7 @@ Supplement Company was born. Read on to see how I combined two of my passions in
 <h1>How It's Made:</h1>
 <br>
 
-**Tech Used:** Adobe XD, HTML, CSS, ReactJS
+**Tech Used:** Express.js, MongoDB
 <br>
 <p>I started by building out prototypes in Adobe XD. This project was very brand focus, so I made sure to make each page convey the image and message
 of the company. I also kept my target audience at the forefront of my thoughts, making sure the pages had the boldness and over the top styling I was 
